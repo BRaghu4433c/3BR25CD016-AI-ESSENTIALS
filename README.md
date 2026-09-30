@@ -11,4 +11,4 @@ raghu (2).pdf
 
 ## 📃resume
 
-[view my resume](./B Raghavendra resume.pdf)
+[view my resume](./B Raghavendra resume.pdf.pdf)
