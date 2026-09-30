@@ -8,6 +8,10 @@
 
 [open snake alive](https://slither-seven-sigma.vercel.app/)
 
+## code of world time
+
+[open code](world_time.py)
+
 ## 📄 Resume
 
 [View My Resume](./BRaghavendraresume.pdf.pdf)
