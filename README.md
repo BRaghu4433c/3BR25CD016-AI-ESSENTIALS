@@ -1,12 +1,12 @@
 # 3BR25CD016-AI
 warld time
 
-#DAY2-CODING-ASSIGNIMENT
+# DAY2-CODING-ASSIGNIMENT
 
-#live projrct
+# 🐍💻live projrct
 
 https://slither-seven-sigma.vercel.app/
 
-#resume
+# 📃resume
 
 B Raghavendra resume.pdf
