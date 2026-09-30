@@ -8,6 +8,6 @@
 
 [open snake alive](https://slither-seven-sigma.vercel.app/)
 
-## 📃resume
+## 📄 Resume
 
-[view my resume]./BRaghavendra resume.pdf
+[View My Resume](./BRaghavendra resume.pdf)
