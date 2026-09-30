@@ -10,7 +10,7 @@
 
 ## code of world time
 
-[open code](world_time.py)
+[open code](warld_time.py)
 
 ## 📄 Resume
 
