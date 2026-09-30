@@ -10,4 +10,4 @@
 
 ## 📄 Resume
 
-[View My Resume](./BRaghavendra resume.pdf)
+[View My Resume](./BRaghavendraresume.pdf.pdf)
