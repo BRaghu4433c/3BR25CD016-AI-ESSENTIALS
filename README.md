@@ -5,10 +5,10 @@ raghu (2).pdf
 
 # DAY2-CODING-ASSIGNIMENT
 
-# 🐍💻live project
+## 🐍💻live project
 
-https://slither-seven-sigma.vercel.app/
+[open snake alive](https://slither-seven-sigma.vercel.app/)
 
-# 📃resume
+## 📃resume
 
-[view resume](./B Raghavendra resume.pdf)
+[view my resume](./B Raghavendra resume.pdf)
