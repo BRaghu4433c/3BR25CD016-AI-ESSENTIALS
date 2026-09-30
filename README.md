@@ -11,4 +11,4 @@ https://slither-seven-sigma.vercel.app/
 
 # 📃resume
 
-B Raghavendra resume.pdf
+[view resume](./B Raghavendra resume.pdf)
