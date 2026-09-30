@@ -3,7 +3,7 @@ warld time
 
 # DAY2-CODING-ASSIGNIMENT
 
-# 🐍💻live projrct
+# 🐍💻live project
 
 https://slither-seven-sigma.vercel.app/
 
